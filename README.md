@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?usern
-ame=espinoza0&layout=compact&theme=tokyonight)](https://github.com
-/espinoza0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espinoza0&layout=compact&theme=tokyonight)](https://github.com/espinoza0)
+
