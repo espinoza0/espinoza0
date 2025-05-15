@@ -1,6 +1,5 @@
 # Hi there, I'm Gabriel 👋
 
-🔭 I’m currently working on a **customer agenda app** that is tailored for a specific client.  
 🌱 I’m currently learning and improving my skills in:  
 
 ### Skills
