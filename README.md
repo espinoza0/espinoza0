@@ -18,5 +18,5 @@
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,tailwind,react,bootstrap,express,supabase" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,mysql,git,github,vscode,tailwind,react,bootstrap,express,supabase" alt="Skills" />
 </p>
